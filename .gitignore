@@ -1,0 +1,20 @@
+# Coverage reports
+coverage/
+
+# API keys and secrets
+# .env
+
+# Depenency directory
+node_modules/
+
+# Editor
+.vscode/
+
+# Ignore built ts files
+dist/
+
+# Ignore logs
+logs/
+
+# Ignore package-lock.json
+package-lock.json
